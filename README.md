@@ -1,5 +1,5 @@
 # malicious-links
-This program continuously downloads a list of potentially malicious URLs from a specified source and processes it to categorize IPs and domains. 
+This program continuously downloads a list of potentially malicious URLs from a specified source which is USOM (Ulusal Siber Olaylara Müdahale) and processes it to categorize IPs and domains. 
 
 
 It performs the following actions in each iteration:
